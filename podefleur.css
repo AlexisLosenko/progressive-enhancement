@@ -1,28 +1,61 @@
+body {
+ /*font-family: 'Indie Flower', cursive;*/
+ /*font-family: 'Dancing Script', cursive;*/
+ font-family: 'Times', cursive;
+ /*font-family: 'Great Vibes', cursive;*/
 
- body {
-	font-family: 'Times';
-	width :50%;
-	margin-left :20%;
-	margin-right:50%;
+ /*background: linear-gradient(90deg, rgb(200, 200, 200), rgb(69, 71, 74));
+ opacity:0.5;*/
+
+ background-image:url("pic.jpg");
+ background-position: bottom right;
+ background-size: cover;
+ background-repeat:no-repeat;
+ width: 90%;
+ margin:auto;
 }
+
 p{
-	font-size:15px;
-	color:#808080;
+ font-size:15px;
+ color:#696969;
 }
-h1{
-	font-size:23px;
-	color:#808080;
+blockquote{
+ font-family : 'Times', cursive;
+ font-size:22px;
 }
-html{
-	margin-left,right:20%;
-	font-size:30px;
-	border-left:100px solid black;
-	border-right:100px solid black;
-	padding-right:30px;
-	padding-bottom, top:30px;
+.cit{
+ font-size:28,8px;
+ margin:auto;
+ padding: 30px 30px 80px 80px;
 }
-img{
-	margin-right: 30%;
-	padding-right:30px;
-	padding-left:30px;
+.gens{
+ font-style:times;
+ border-left:3px solid green;
+ background:rgba(50,50,50,0.3);
 }
+.fermier{
+ font-style:times;
+ border-left:3px solid red;
+ background:rgba(122,18,50,0.3);
+}
+.bien{
+ color:#00008B;
+font-style:bold;
+text-shadow:1px 0px 0px #000;
+}
+.mal{
+ color:#8470FF;
+ font-style:bold;
+}
+
+
+table, th{
+ border: 2px solid black;
+}
+.pied{
+ font-size:10px;
+ font-style:italic;
+ background-color:#66CDAA;
+ color : #BA55D3;
+} 
+
