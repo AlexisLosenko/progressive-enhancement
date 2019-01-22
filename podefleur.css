@@ -1,0 +1,28 @@
+
+ body {
+	font-family: 'Times';
+	width :50%;
+	margin-left :20%;
+	margin-right:50%;
+}
+p{
+	font-size:15px;
+	color:#808080;
+}
+h1{
+	font-size:23px;
+	color:#808080;
+}
+html{
+	margin-left,right:20%;
+	font-size:30px;
+	border-left:100px solid black;
+	border-right:100px solid black;
+	padding-right:30px;
+	padding-bottom, top:30px;
+}
+img{
+	margin-right: 30%;
+	padding-right:30px;
+	padding-left:30px;
+}
