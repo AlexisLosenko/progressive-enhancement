@@ -38,12 +38,12 @@ blockquote{
  border-left:3px solid red;
  background:rgba(122,18,50,0.3);
 }
-.bien{
+.Good{
  color:#00008B;
 font-style:bold;
 text-shadow:1px 0px 0px #000;
 }
-.mal{
+.Bad{
  color:#8470FF;
  font-style:bold;
 }
