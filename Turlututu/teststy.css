@@ -1,4 +1,4 @@
-/* GENERALS RULES */
+
 
 body{
     font-family: "Open Sans", sans-serif;
@@ -7,7 +7,7 @@ body{
   font-weight: 300;  
 }
 
-/* NAV MENU */
+
 nav{
     background-color: #333333;
     position: fixed;
@@ -58,7 +58,7 @@ nav a:hover{
 }
 
 
-/* ---- HEADER ----- */
+
 #container-header{
     background-color: #1e93cc;
     color: white;
@@ -109,7 +109,7 @@ header img{
 	height: 200px;
 	}
 
-/* --- white-container 1 --- */
+
 .white-container1{
     background-color: white;
     text-align: center;
@@ -118,7 +118,7 @@ header img{
     margin: 30px 0px;
 }
 
-/* --- blue-container1 --- */
+
 #blue-container1{
     background-color: #1e93cc;
     padding: 50px 50px;
@@ -142,11 +142,7 @@ header img{
     text-align: justify;
 }
 
-/* --- white-container 2 --- */
 
-/* NOTHING ! */
-
-/* --- Sponsor-container --- */
 #sponsor-container{
     background-color: #eeeeee;
     text-align: center;
@@ -163,7 +159,7 @@ header img{
     padding: 70px 0px;
 }
 
-/* --- Button section --- */
+
 #white-container2{
     padding: 50px 0px;
     text-align: center;
@@ -209,7 +205,7 @@ header img{
     background-color: white;
 }
 
-/* --- FOOTER --- */
+
 footer{
     background-color: #222222;
 
@@ -219,8 +215,7 @@ footer{
     position: sticky;
     top: 0px;
     display: flex;
-    /* padding-left: 15px;
-    padding-right: 15px; */
+
     min-height: 50px;
 }
 footer ul{
