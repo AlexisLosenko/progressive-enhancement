@@ -1,5 +1,5 @@
 body{
-    font-family: "Open Sans"
+    font-family: "Times"
 }
 .container{
     display: grid;
@@ -39,10 +39,10 @@ a:visited{
     color: black;
 }
 a:hover{
-    color: #8B0000;
+    color: #000000;
 }
 header{
-    background:url(Typo-Head.jpg) no-repeat;
+    background:url(Typo-Head.png) no-repeat;
     background-attachment: fixed-block;
     background-position: center;
     background-position-y: -10px;
