@@ -1,0 +1,66 @@
+body{
+    font-family: "Open Sans"
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(1,75%);
+    justify-content: center;
+}
+
+h2, p, em{
+    text-align: justify;
+}
+img{
+    display: flex;
+    margin-right: auto;
+}
+#main-article div{
+    padding: 33px;
+    border-left: 2px solid #8B0000;
+    border-top-right-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #EFEFEF; 
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: black;
+
+}
+#main-article h1{
+   padding-top: 50px;
+}
+
+
+
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: #8B0000;
+}
+header{
+    background:url(Typo-Head.jpg) no-repeat;
+    background-attachment: fixed-block;
+    background-position: center;
+    background-position-y: -10px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+header article{
+    background-color: rgba(255, 255, 255, 0.90);
+    padding: 40px;
+}
+code{
+    background-color: white !important;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+footer a{
+    color: white;
+}

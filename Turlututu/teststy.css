@@ -107,7 +107,7 @@ header img{
 .First-img{
 	width: 200px;
 	height: 200px;
-}
+	}
 
 /* --- white-container 1 --- */
 .white-container1{
@@ -153,7 +153,7 @@ header img{
     padding: 60px 10px;
 }
 #sponsor-container img{
-	max-height: 25%;
+	max-height: 250%;
     width: 90px;
 }
 #sponsor-container li{
