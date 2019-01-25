@@ -11,16 +11,16 @@ h2, p, em{
     text-align: justify;
 }
 img{
-    display: flex;
+    display: center;
     margin-right: auto;
 }
 #main-article div{
     padding: 33px;
-    border-left: 2px solid #8B0000;
+    border-left: 2px solid #C0C0C0;
     border-top-right-radius: 5px;
     margin-left: 10px;
     margin-right: 10px;
-    background: #EFEFEF; 
+    background: white; 
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     color: black;
@@ -42,7 +42,7 @@ a:hover{
     color: #000000;
 }
 header{
-    background:url(Typo-Head.png) no-repeat;
+    background:url(Typo-Head.jpg) no-repeat;
     background-attachment: fixed-block;
     background-position: center;
     background-position-y: -10px;
