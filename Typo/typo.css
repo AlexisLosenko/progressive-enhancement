@@ -1,7 +1,7 @@
 body{
     font-family: "Times"
 }
-.container{
+.fiche{
     display: grid;
     grid-template-columns: repeat(1,75%);
     justify-content: center;
